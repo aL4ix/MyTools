@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -o xtrace
 
 sudo rm -rf /var/cache/snapd/
 

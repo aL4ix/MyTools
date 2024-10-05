@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -o xtrace
 
 sudo apt install flatpak
 sudo apt install plasma-discover-backend-flatpak
