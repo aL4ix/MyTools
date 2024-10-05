@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 sudo rm -rf /var/cache/snapd/
 
 sudo apt autoremove --purge snapd
